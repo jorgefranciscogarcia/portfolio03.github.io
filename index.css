@@ -1,0 +1,29 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+html {
+    background-color: rgb(223, 223, 223);
+}
+
+p, h2 {
+    color:blueviolet;
+}
+
+#caracteristicas {
+    color: rgb(128, 83, 0);
+}
+
+body {
+    width: 600px;
+    margin: 20px auto;
+    background-color: rgb(202, 182, 182);
+    padding: 10px 40px 40px 40px;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
